@@ -1,0 +1,159 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 1,
+        "idRef": "ReadRangeConnections`1_1",
+        "hash": "ReadRangeConnections`1_1|DataTable|R9VCKQBi9VEpEv80c9oVjWT6sCHH8B41J4WAlMI",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Código Sociedad",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "SOCIEDAD",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "CORREO",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Contraseña Correo",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable1",
+        "hash": "ReadRangeConnections`1_1|DataTable|nJ4olV9ROcZvvUB9uXJkKe7WkA3L0mJuCAftGkmGgU",
+        "assemblyName": "Studio.Generated.TypedDataTable1"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 2,
+        "idRef": "ReadRangeConnections`1_1",
+        "hash": "ReadRangeConnections`1_1|DataTable|3rrcVbkZvsuKLdaGdMolLl4FwzSZav8ZMViq5XBxwM",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Column A",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column B",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column C",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column D",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column E",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column F",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column G",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column H",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column I",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column J",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column K",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column L",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column M",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column N",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column O",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column P",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column Q",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column R",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column S",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column T",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column U",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column V",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column W",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column X",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column Y",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Column Z",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable2",
+        "hash": "ReadRangeConnections`1_1|DataTable|fdxvMQudf70iKLdtvwWZ6wSrCgTarsvqRZ8XUkkeY",
+        "assemblyName": "Studio.Generated.TypedDataTable2"
+      }
+    }
+  ]
+}
