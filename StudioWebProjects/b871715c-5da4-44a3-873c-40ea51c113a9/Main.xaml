@@ -151,7 +151,7 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ucas:Logon>
-    <Delay DisplayName="Retraso" Duration="00:00:13" sap:VirtualizedContainerService.HintSize="1030,124" sap2010:WorkflowViewState.IdRef="Delay_3" />
+    <Delay DisplayName="Retraso" Duration="00:00:15" sap:VirtualizedContainerService.HintSize="1030,124" sap2010:WorkflowViewState.IdRef="Delay_3" />
     <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Utilizar Aplicación: SAP" sap:VirtualizedContainerService.HintSize="1030,4618" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" ScopeGuid="9afd1a08-7eb1-4320-85c1-b1a419af686a" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
